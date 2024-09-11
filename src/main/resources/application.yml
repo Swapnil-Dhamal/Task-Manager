@@ -1,0 +1,7 @@
+server:
+  port: 3232
+
+spring:
+  web:
+    resources:
+      static-locations: classpath:/static/
